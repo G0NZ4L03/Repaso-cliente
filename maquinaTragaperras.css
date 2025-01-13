@@ -1,0 +1,121 @@
+body{
+	background-color: #000000;
+	color: white;
+}
+#canvasSirena {width: 50px;
+			   height: 50px;}
+
+#tejado {width:50px;
+         height:50px;
+		 margin-left:205px;}
+		 
+#arriba { width: 400px;
+	      height: 40px; 
+		  margin-left:20px;
+		  margin-right:20px;
+          background-color: #000000;
+		  padding-top:10px;
+		  border:8px solid #999900;
+		  border-bottom:4px solid #999900;
+		  border-radius:3px;}  
+		  
+#jackpot { font-size:30px;
+           font-family: Courier;
+		   color:#e6e600;
+		   margin-left:30px;
+		   font-weight:bold;
+		 }
+		  
+#centro { width: 400px;
+	      height: 200px; 
+		  margin-left:20px;
+		  margin-right:20px;
+          background-color: #4d9900;
+		  border:8px solid #999900;
+		  border-top:4px solid #999900;
+		  border-bottom:4px solid #999900;}  
+
+#centroDentro { width: 320px;
+			    height: 155px; 
+			    margin:30px;
+			    margin-top:15px;
+			    background-color: black;
+			    border:8px solid black;
+			    border-radius:20px;}  
+
+.color1 {margin-top:15px;
+		 width:55px;
+		 height:30px;
+		 border-radius:10px;
+		 background-color: #66ff66;
+		 border: 2px solid #669966;
+		 margin-left:50px;}
+
+
+#paraI { margin-left:70px;
+}
+				 
+		 
+.color2 {margin-top:25px;
+		 width:55px;
+		 height:30px;
+		 border-radius:10px;
+		 background-color: #990000;
+		 border: 2px solid #990000;
+		 color:#e6e600;
+		 font-size:19px;
+		 margin-left:15px;}	
+		 
+#lanza1 { margin-left:35px;
+}
+		 
+		 
+.canvas {width:70px;
+         height:120px;
+         margin: 16px;
+		 margin-top:13px;
+		 background-color:white;
+		 border:2px solid black;}
+		  
+#canvasI {margin-left: 15px;}		  
+		  
+#botonesParada { width: 420px;
+				 height: 60px;  
+				 margin-left:10px;
+		         margin-right:10px;				
+				 background-color: #4d9900;
+				 border:8px solid #999900;
+				 border-bottom:4px solid #999900;
+		         border-radius:3px;}  
+				 
+#botonesLanzador { width: 420px;
+				   height: 80px;  
+				   margin-left:10px;
+		           margin-right:10px;
+				   border:8px solid #999900;
+		  border-top:4px solid #999900;
+		  border-bottom:4px solid #999900;
+				   border-radius:3px;
+				   background-color:#4d9900;}  
+				   
+#abajo  {width: 390px;
+	     height: 50px;  
+		 margin-left:25px;
+		 margin-right:25px;
+		 border:8px solid #999900;
+		 border-top:4px solid #999900;
+		 border-radius:3px;
+		 background-color: #4d4d00;}  
+
+#monedas  {width: 315px;
+	       height: 20px;  
+		   margin-left:35px;
+		   margin-top:15px;
+		   border-radius:3px;
+		   background-color: #111111;
+		   font-size:17px;
+           font-family: Courier;
+		   color:#e6e600;}  	
+
+#bote {float:left;}		   
+#premio {float:right;}		   
